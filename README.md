@@ -2,7 +2,7 @@
 
 Mozsearch is the backend for the [Searchfox](https://searchfox.org)
 code indexing tool. Searchfox runs inside AWS, but you can develop on
-Searchfox locally using Vagrant.
+Searchfox locally using Docker.
 
 ## Docker Setup For Local Development
 
